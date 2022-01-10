@@ -1,0 +1,55 @@
+title = "Dimitri Molokov developer profile"
+baseURL = "http://localhost"
+languageCode = "en-EN"
+theme = "ananke"
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Dimitri Molokov developer profile"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Dimitri Molokov developer profile"
+    weight = 2
+    contentDir = "content/fr"
+  [languages.de]
+    title = "Dimitri Molokov developer profile"
+    weight = 3
+    contentDir = "content/de"
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The way you choose makes you every day. There is one way to code... code."
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/developer-profile/"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/developer-profile/"
+
+[[params.ananke_socials]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/16327723/dmitri-e-molokov"
