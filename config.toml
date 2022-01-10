@@ -1,5 +1,5 @@
 title = "Dimitri Molokov developer profile"
-baseURL = "http://localhost"
+baseURL = "http://developer.molokov.de"
 languageCode = "en-EN"
 theme = "ananke"
 
@@ -15,15 +15,6 @@ enableRobotsTXT = true
     title = "Dimitri Molokov developer profile"
     weight = 1
     contentDir = "content/en"
-  [languages.fr]
-    title = "Dimitri Molokov developer profile"
-    weight = 2
-    contentDir = "content/fr"
-  [languages.de]
-    title = "Dimitri Molokov developer profile"
-    weight = 3
-    contentDir = "content/de"
-
 
 [sitemap]
   changefreq = "monthly"

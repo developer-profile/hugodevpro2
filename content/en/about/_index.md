@@ -1,8 +1,24 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Short story about me the author of this website"
 featured_image: ''
+tags: ["javascript", "golang", "nodejs", "electron", "python", "dart", "flutter", "web3", "blockchain", "api", "packages", "libraries", "repositories"]
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Welcome! The website is about different topics of developmment I experienced so far.
+
+It's Dimitri Molokov the author of the website. The reason why I started this project is the protfolio I need to get a job.
+
+I am software engineer with strong ability to learn and collaborate in rapidly changing environments and compositions. 
+
+Worked 10000+ on different aspects of programming for web, mobile and backend.
+
+Learning javascript, golang, nodejs, electron, python, dart, flutter and some other interesting rare and not so popular but inreresting programming langiages.
+
+I'd love to make software for desktop, mobile and web.
+
+Eager to tackle web development challenges to achieve lasting impacts on users experience.
+
+I am open to new experience for open source or for business software development.
+
+Feel free to contac me if you need experienced software engineer for interesing project.

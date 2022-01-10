@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Dimitri Molokov developer projects"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "My last projects and experience. Have a nice read!"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
