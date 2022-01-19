@@ -5,7 +5,6 @@ date: 2022-01-16T20:58:07+03:00
 draft: false
 featured_image: ""
 tags: ["blockchain","web3","go"]
-title: "How to clone github repo and setup ssh access for the future"
 ---
 # Building blockchain now
 
