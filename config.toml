@@ -3,7 +3,6 @@ baseURL = "http://developer.molokov.de"
 languageCode = "en-EN"
 theme = "ananke"
 
-
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
